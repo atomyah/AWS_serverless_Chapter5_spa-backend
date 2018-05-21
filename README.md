@@ -1,0 +1,1 @@
+# AWS_serverless_Chapter5_spa-backend 写真投稿サイトをシングルページアプリケーションで作ろう、のバックエンド側lambda関数とCloudFormationスタック作成SAM(template.yaml)
